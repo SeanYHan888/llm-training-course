@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+# Learner implementations (answers). Never publish; version them in a private repo.
+work/
